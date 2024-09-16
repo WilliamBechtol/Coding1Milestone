@@ -5,3 +5,10 @@
 .no5{background-color: darkturquoise;color: crimson;}
 h1{color:darkblue !important}
 #cool{border-style:dashed;}
+.header{color:red;text-align: center;font-family:fantasy;font-size:40px;}
+.header:hover{color: skyblue;}
+.main{text-align: center; font-size: 25px;}
+table{text-align: center;margin-right: auto;margin-left: auto;}
+.footer{text-align: center;}
+.meep{font-size: 20px;}
+.link{font-size: larger;}
